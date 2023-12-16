@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ce1a3b642a20544e8fbd8569542e516
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - damageAudio: {fileID: 8300000, guid: ef9283c89de7b684598e59c703a7c444, type: 3}
+  - thisRB: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - playerHealthController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

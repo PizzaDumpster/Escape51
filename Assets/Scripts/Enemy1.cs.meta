@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d8fdf5ad75807144599b60118a34c2a4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyBullet: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - playerTarget: {instanceID: 0}
+  - damageAudio: {fileID: 8300000, guid: ef9283c89de7b684598e59c703a7c444, type: 3}
+  - enemyLazerSound: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

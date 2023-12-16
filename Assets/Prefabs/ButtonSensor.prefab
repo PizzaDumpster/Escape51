@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &953846377641097145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 953846377641097147}
+  - component: {fileID: 953846377641097146}
+  m_Layer: 0
+  m_Name: ButtonSensor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &953846377641097147
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953846377641097145}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.085031, y: -0.755213, z: -0.36912107}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &953846377641097146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953846377641097145}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9a2a7222f33d2448b8d50825ef1470a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  aButtonRenderer: {fileID: 0}
+  bButtonRenderer: {fileID: 0}
+  xButtonRenderer: {fileID: 0}
+  yButtonRenderer: {fileID: 0}
+  rbButtonRenderer: {fileID: 0}
+  rtButtonRenderer: {fileID: 0}
+  aButtonController: {fileID: 21300000, guid: 2c767f22638c6084b91807cf2a3bf8e5, type: 3}
+  bButtonController: {fileID: 21300000, guid: 82c00bf3ba87b434fae3bed2c32d4805, type: 3}
+  xButtonController: {fileID: 21300000, guid: 82c00bf3ba87b434fae3bed2c32d4805, type: 3}
+  yButtonController: {fileID: 21300000, guid: d8ede384c796a694f83241fbf475e040, type: 3}
+  rbButtonController: {fileID: 21300000, guid: a78ef5e72c24e394bbf1c4c0ece0d8f3, type: 3}
+  rtButtonController: {fileID: 21300000, guid: 21a35af2dfe3ef4449f7c84c60b93cc4, type: 3}
+  aButtonKeyboard: {fileID: 21300000, guid: b37844545c0b3e047b9c6c4d8d89352d, type: 3}
+  bButtonKeyboard: {fileID: 21300000, guid: 2ccd12de4c9d2ca418dbc5285fd18bcf, type: 3}
+  xButtonKeyboard: {fileID: 21300000, guid: 2ccd12de4c9d2ca418dbc5285fd18bcf, type: 3}
+  yButtonKeyboard: {fileID: 21300000, guid: 909b76d6366be8b4680d893e2bb0fc22, type: 3}
+  rbButtonKeyboard: {fileID: 21300000, guid: 00e5cde88cbcd2e4d86b7a5bc7d4e996, type: 3}
+  rtButtonKeyboard: {fileID: 21300000, guid: 8691d3e0878ae9344ae6071ebd6f3012, type: 3}
+  isKeyboard: 0
+  isController: 0
